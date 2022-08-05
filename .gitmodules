@@ -1,0 +1,3 @@
+[submodule "whatsapp-mern-backend"]
+	path = whatsapp-mern-backend
+	url = https://github.com/SananZahid/whatsapp-mern-backend
